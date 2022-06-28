@@ -6,7 +6,6 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 
 - 🌱 I’m currently learning in depth new web technologies, advanced mobile dev, and new server tools for web deployment
 - 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with AI
 - 💬 Ask me about Web Technologies, mobile and Servers
 - 📫 How to reach me: [eddy.matabishi1976@gmail.com](mailto:eddy.matabishi1976@gmail.com) & [Twitter @engineer_eddy](https://twitter.com/engineer_eddy)
 - ⚡ JESUS CHRIST'S FOLLOWER
