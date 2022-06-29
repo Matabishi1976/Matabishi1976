@@ -50,7 +50,7 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 ![](https://img.shields.io/badge/-SSL%20CONFIG-green?style=for-the-badge&logo=Ssl&logoColor=white)
 ![](https://img.shields.io/badge/-NGINX-red?style=for-the-badge&logo=Nginx&logoColor=white)
 
-## My Github Status 🦸
+## My Github Status
 
 ![](https://github-readme-stats.vercel.app/api?username=Matabishi1976&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matabishi1976&layout=compact&theme=onedark)
