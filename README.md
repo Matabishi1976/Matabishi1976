@@ -1,16 +1,16 @@
-# Hey, I am Eddy Matabishi ✌️
+# Hey there, I am Eddy Matabishi ✌️
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+software+developer;I'm+working+with+windows+Servers;I'm+working+with+Linux+Servers)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+software+developer;I'm+a+network+engineer;I'm+working+with+windows+Servers;I'm+working+with+Linux+Servers)
 
 I'm a software engineer. I love building full-stack web applications, mobile apps and playing with servers administrations. I have proved my superiority in web technologies and system linux administration.
 
 - 🌱 I’m currently learning in depth new web technologies, advanced mobile dev, and new server tools for web deployment
-- 👯 I’m looking to collaborate on Full stack web development
+- 👯 I’m looking to collaborate on Full stack web and mobile app development
 - 💬 Ask me about Web Technologies, mobile and Servers
 - 📫 How to reach me: [eddy.matabishi1976@gmail.com](mailto:eddy.matabishi1976@gmail.com) & [Twitter @engineer_eddy](https://twitter.com/engineer_eddy)
 - ⚡ JESUS CHRIST'S FOLLOWER
 
-## Find me around the web 🌍
+## Reach me on 🌍
 
 - [LinkedIn](https://www.linkedin.com/in/eddy-matabishi-935869149/?msgConversationId=6533685488199491584&msgOverlay=true)
 - [Twitter](https://twitter.com/engineer_eddy)
@@ -34,13 +34,11 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 ![](https://img.shields.io/badge/-REACT%20NATIVE-red?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-VUE%20JS-ff69b4?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-DJANGO-success?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-DJANGO%20REST-brightgreen?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-CODEIGNITER%204-yellow?style=for-the-badge&logo=CodeIgniter&logoColor=white)
 ![](https://img.shields.io/badge/-LARAVEL%204-pink?style=for-the-badge&logo=Laravel&logoColor=pink)
 
 ### Payement Gateway
 
-![](https://img.shields.io/badge/-REVOLUT-primary?style=for-the-badge&logo=Revolut&logoColor=white)
 ![](https://img.shields.io/badge/-FLUTTERWAVE-primary?style=for-the-badge&logo=wave&logoColor=blue)
 ![](https://img.shields.io/badge/-SQUARE-red?style=for-the-badge&logo=Square&logoColor=white)
 ![](https://img.shields.io/badge/-STRIPE-blue?style=for-the-badge&logo=Stripe&logoColor=white)
@@ -48,11 +46,9 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 
 ### Web Servers Skills
 
-![](https://img.shields.io/badge/-NGINX-red?style=for-the-badge&logo=Nginx&logoColor=white)
 ![](https://img.shields.io/badge/-APACHE-blue?style=for-the-badge&logo=Apache&logoColor=white)
 ![](https://img.shields.io/badge/-SSL%20CONFIG-green?style=for-the-badge&logo=Ssl&logoColor=white)
-![](https://img.shields.io/badge/-GUNICORN-yellow?style=for-the-badge&logo=gunicorn&logoColor=white)
-![](https://img.shields.io/badge/-PM2-red?style=for-the-badge&logo=pm2&logoColor=white)
+![](https://img.shields.io/badge/-NGINX-red?style=for-the-badge&logo=Nginx&logoColor=white)
 
 ## My Github Status 🦸
 
